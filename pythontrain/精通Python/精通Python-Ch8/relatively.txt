@@ -1,0 +1,1 @@
+poem='''There was a young lady named Bright Whose speed was far faster than light She set out one dayIn a relative way And returned on the previous night.'''
